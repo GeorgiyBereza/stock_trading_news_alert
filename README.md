@@ -1,4 +1,4 @@
-<h2>Tracking stock prices, collecting news and sending sms</h2>
+<h2>Tracking stock prices, collecting news and sending SMSes</h2>
 (project from Python bootcamp)
 <br>
 
@@ -12,7 +12,7 @@ This project uses 3 different APIs:
     gathering top news from https://newsapi.org with a company name in the article's title
   </li>
   <li>
-    Sends separate sms with the percentage change and each article's title plus description to your phone number via https://www.twilio.com.
+    Sends separate SMSes for each article with the percentage change plus title plus description to user's phone number via https://www.twilio.com.
   </li>
 </ol>
 
